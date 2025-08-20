@@ -28,9 +28,4 @@ Uma API RESTful simples para gerenciamento de tarefas (To-Do List), desenvolvida
 
 ---
 
-## 🔧 Instalação
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/taskmaster-api.git
-   cd taskmaster-api
