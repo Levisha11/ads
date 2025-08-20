@@ -38,14 +38,21 @@ Uma API RESTful simples para gerenciamento de tarefas (To-Do List), desenvolvida
 | DELETE | /tasks/\:id    | Deletar uma tarefa         | ✅            |
 
 🧪 Testes
+
 Em desenvolvimento — testes com Jest e Supertest em breve!
 
+
 🤝 Contribuindo
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
 
+
 📄 Licença
+
 Este projeto está licenciado sob a MIT License.
 
+
 🌐 Autor
+
 Desenvolvido por @Levisha11
 
