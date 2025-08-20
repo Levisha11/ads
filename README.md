@@ -28,4 +28,12 @@ Uma API RESTful simples para gerenciamento de tarefas (To-Do List), desenvolvida
 
 ---
 
+| Método | Rota           | Descrição                  | Autenticado? |
+| ------ | -------------- | -------------------------- | ------------ |
+| POST   | /auth/register | Criação de novo usuário    | ❌            |
+| POST   | /auth/login    | Login do usuário           | ❌            |
+| GET    | /tasks         | Listar todas as tarefas    | ✅            |
+| POST   | /tasks         | Criar uma nova tarefa      | ✅            |
+| PUT    | /tasks/\:id    | Atualizar tarefa existente | ✅            |
+| DELETE | /tasks/\:id    | Deletar uma tarefa         | ✅            |
 
